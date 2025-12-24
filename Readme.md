@@ -8,6 +8,10 @@ This project serves as a great demonstration of core JavaScript concepts such as
 
 ---
 
+LIVE DEMO
+https://shoaib-tic-tack-to-game.netlify.app
+
+
 ### ✨ Features
 - Two-player turn-based gameplay
 - Instant win and draw detection
